@@ -1,8 +1,26 @@
 from typing import Union
 
 from fastapi import FastAPI
+from pathlib import Path
+from dotenv import load_dotenv
+import whatsapp_api
+import os
 
 app = FastAPI()
+
+from starlette.middleware.cors import CORSMiddleware
+
+
+@app.on_event("startup")
+async def startup():
+
+    app.add_middleware(
+        CORSMiddleware,
+        allow_origins=["*"],
+        allow_credentials=True,
+        allow_methods=["*"],
+        allow_headers=["*"],
+    )
 
 
 @app.get("/")
@@ -12,4 +30,5 @@ def read_root():
 
 @app.get("/items/{item_id}")
 def read_item(item_id: int, q: Union[str, None] = None):
+    print(whatsapp_api.send_customer_message(q))
     return {"item_id": item_id, "q": q}
