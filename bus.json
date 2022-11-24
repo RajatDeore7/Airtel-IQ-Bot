@@ -1,0 +1,102 @@
+[
+    {
+        "busname":"Primo Bus",
+        "from":"Pune",
+        "to":"Goa",
+        "ratings":"4",
+        "reviews":"Nice",
+        "price":"1200",
+        "image":"img1.png",
+        "duration":"12:00"
+    },
+    {
+        "busname":"Orange Bus",
+        "from":"Pune",
+        "to":"Goa",
+        "ratings":"3.5",
+        "reviews":"Nice",
+        "price":"1100",
+        "image":"img1.png",
+        "duration":"13:20"
+    },
+    {
+        "busname":"VRL Bus",
+        "from":"Pune",
+        "to":"Banglore",
+        "ratings":"4.5",
+        "reviews":"Nice",
+        "price":"2300",
+        "image":"img1.png",
+        "duration":"15:40"
+    },
+    {
+        "busname":"SRS Bus",
+        "from":"Pune",
+        "to":"Banglore",
+        "ratings":"3.2",
+        "reviews":"Nice",
+        "price":"1250",
+        "image":"img1.png",
+        "duration":"16:00"
+    },
+    {
+        "busname":"Seabird Tourist",
+        "from":"Chennai",
+        "to":"Mumbai",
+        "ratings":"4.1",
+        "reviews":"Nice",
+        "price":"2200",
+        "image":"img1.png",
+        "duration":"26:00"
+    },
+    {
+        "busname":"APSRTC",
+        "from":"Chennai",
+        "to":"Hydrabad",
+        "ratings":"3.5",
+        "reviews":"Nice",
+        "price":"1419",
+        "image":"img1.png",
+        "duration":"13:10"
+    },
+    {
+        "busname":"MSRTC - 710887",
+        "from":"Mumbai",
+        "to":"Mahabaleshwar",
+        "ratings":"4",
+        "reviews":"Nice",
+        "price":"1200",
+        "image":"img1.png",
+        "duration":"6:00"
+    },
+    {
+        "busname":"Mehra Travels",
+        "from":"Delhi",
+        "to":"Mumbai",
+        "ratings":"1.2",
+        "reviews":"Nice",
+        "price":"3500",
+        "image":"img1.png",
+        "duration":"21:55"
+    },
+    {
+        "busname":"Nama Travels",
+        "from":"Delhi",
+        "to":"Jaipur",
+        "ratings":"4.8",
+        "reviews":"Nice",
+        "price":"850",
+        "image":"img1.png",
+        "duration":"6:22"
+    },
+    {
+        "busname":"Himalaya Travels",
+        "from":"Mumbai",
+        "to":"Pune",
+        "ratings":"5",
+        "reviews":"Nice",
+        "price":"1100",
+        "image":"img1.png",
+        "duration":"2:48"
+    }
+]
