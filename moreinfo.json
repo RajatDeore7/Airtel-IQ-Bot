@@ -208,7 +208,7 @@
     ]
 },
 {
-    "id":"12",
+    "id":"13",
     "destination":"Vizag",
     "details":"Visakhapatnam is a port city and industrial center in the Indian state of Andhra Pradesh, on the Bay of Bengal. It's known for its many beaches, including Ramakrishna Beach, home to a preserved submarine at the Kursura Submarine Museum. Nearby are the elaborate Kali Temple and the Visakha Museum, an old Dutch bungalow housing local maritime and historical exhibits.",
     "season":["Winter","Summer","Rainy","Autumn"],
@@ -225,7 +225,7 @@
     ]
 },
 {
-    "id":"13",
+    "id":"14",
     "destination":"Cochin",
     "details":"Kochi, often spelled Cochin, is a city in the Kerala state on the southwest coast of India. Since a flood dug out its harbour in 1341 and allowed Arab, Chinese, and European traders to enter, it has served as a port. Fort Kochi, a hamlet with tiled colonial villas and several houses of worship, is one location that reflects those influences. Traditional to Kochi, cantilevered Chinese fishing nets have been in use for many years.",
     "season":["Winter","Summer","Spring","Rainy"],
@@ -237,6 +237,74 @@
             {"from":"Mumbai"},
             {"to":"Cochin"},
             {"time":"05:10 AM"}
+            ]
+        }
+    ]
+},
+{
+    "id":"21",
+    "destination":"Nainital Delhi Agra",
+    "details":"Kochi, often spelled Cochin, is a city in the Kerala state on the southwest coast of India. Since a flood dug out its harbour in 1341 and allowed Arab, Chinese, and European traders to enter, it has served as a port. Fort Kochi, a hamlet with tiled colonial villas and several houses of worship, is one location that reflects those influences. Traditional to Kochi, cantilevered Chinese fishing nets have been in use for many years.",
+    "season":["Summer","Spring","Rainy","Autumn"],
+    "additional_image":["https://images.unsplash.com/photo-1591353527304-24290c2a5a61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8S3VtYXJha29tfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1605531321045-59731b348442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8TXVubmFyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1654530050931-3b02b28570c1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8S3VtYXJha29tfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60"],
+    "type":["Sightseeing"],
+    "includes":[
+        {"accomodation_details":"Blue Water"},
+        {"transport_details":[{"type":"plane"},
+            {"from":"Mumbai"},
+            {"to":"Delhi"},
+            {"time":"10:00 AM"}
+            ]
+        }
+    ]
+},
+{
+    "id":"22",
+    "destination":"Kashmir Escape",
+    "details":"Gulmarg, Sonamarg, Kupwara, Kargil, Pulwama, Pahalgam, Nishat Garden, Shalimar Garden Chashmashahi, Jama Masjid, Yusmarg, and Aru Valley are just a few places in Kashmir that come to mind. These sites to visit in Kashmir are renowned for their exceptional beauty, from the lovely valleys to the alpine meadows that reach to the horizon.",
+    "season":["Winter"],
+    "additional_image":["https://images.unsplash.com/photo-1566837497312-7be7830ae9b1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8a2FzaG1pcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1566323124805-757e5c41d37c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGthc2htaXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1561287437-c69a30664793?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjF8fGthc2htaXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60"],
+    "type":["Sightseeing"],
+    "includes":[
+        {"accomodation_details":"Kashmira"},
+        {"transport_details":[{"type":"plane"},
+            {"from":"Mumbai"},
+            {"to":"Srinagar"},
+            {"time":"08:00 AM"}
+            ]
+        }
+    ]
+},
+{
+    "id":"23",
+    "destination":"Nainital Corbett Park",
+    "details":"Famous for having the highest number of tigers among Indian national parks. Covers thousands of kilometers of stunning landscape. Allows overnight stays in certain areas.",
+    "season":["Winter","Rainy","Autumn"],
+    "additional_image":["https://images.unsplash.com/photo-1601463501677-377b99c28d09?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fE5haW5pdGFsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1629946266592-8a82b745ffb2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fE5haW5pdGFsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1634455211118-2b06099fb328?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjJ8fE5haW5pdGFsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60"],
+    "type":["Sightseeing"],
+    "includes":[
+        {"accomodation_details":"Country Inn Bhimtal"},
+        {"transport_details":[{"type":"plane"},
+            {"from":"Mumbai"},
+            {"to":"New Delhi"},
+            {"time":"06:00 AM"}
+            ]
+        }
+    ]
+},
+{
+    "id":"24",
+    "destination":"Honeymoon Special Shimla Manali Manikaran",
+    "details":"Shimla's Ridge, Kufri, Green Valley, Jakhoo Hill, Chail, Kiala Forest, Mall Road, Christ Church, Kali Bari Temple, Himalayan Bird Park, Viceregal Lodge, Kuthar Fort, Summer Hill, Ride on Toy Train, Chadwick Waterfall, and several more spectacular attractions are just a few of the city's top sights.",
+    "season":["Winter","Summer","Autumn"],
+    "additional_image":["https://images.unsplash.com/photo-1621340981970-54a5d9cc459d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8TWFuaWthcmFufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1652379379347-5ab81f8d03fa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8TWFuaWthcmFufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1644996463627-9e4680e832f4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8TWFuaWthcmFufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60"],
+    "type":["Sightseeing"],
+    "includes":[
+        {"accomodation_details":"Hotel Asia The Dawn/ Hotel De Park/ Andaz Resort"},
+        {"transport_details":[{"type":"plane"},
+            {"from":"Mumbai"},
+            {"to":"Chandigarh"},
+            {"time":"08:35 AM"}
             ]
         }
     ]
