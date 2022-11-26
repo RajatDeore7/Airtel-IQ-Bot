@@ -1,0 +1,19 @@
+[
+    {
+        "destination":"",
+        "details":"",
+        "season":"",
+        "additional_image":"",
+        "type":"",
+        "includes":[
+            {"accomodation_details":"Hotel Dara Royale/ TBA/ Hotel Puri Palace/or similar"},
+            {"transport_details":[
+                {"type":"plane"},
+                {"from":"Mumbai"},
+                {"to":"Amritsar"},
+                {"time":"10:00 AM"}
+            ]
+        }
+        ]
+}
+]
