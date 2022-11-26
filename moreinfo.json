@@ -2,7 +2,7 @@
     {
         "id":"1",
         "destination":"Wagah Border",
-        "type":["Sightseeing"],
+        "type":["Sightseeing","Temple"],
         "details":"The ceremonial closing of the gates and lowering of the Indian and Pakistani flags at the Wagah border post, which is located around 29 kilometres from Amritsar on the Grand Trunk Road, has made it famous. In order to see the rite known as Beating the Retreat, about 5000 people gather on the Indian side alone.",
         "season":["Winter","Summer"],
         "additional_image":["https://images.unsplash.com/photo-1598431416007-869a2a727f8b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8V2FnYWglMjBCb3JkZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1618029934462-66cf78c31094?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8V2FnYWglMjBCb3JkZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1618029349137-668d2851888d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8V2FnYWglMjBCb3JkZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60"],
@@ -23,7 +23,7 @@
     "details":"Devout believers think that by receiving redemption following a bath in the holy Ganga at Haridwar, they can enter heaven. In addition, Haridwar is one of the four locations where the Kumbh Mela and Ardh Kumbh festivals are held every twelve and six years, respectively.",
     "season":["Summer"],
     "additional_image":["https://images.unsplash.com/photo-1622611908679-cbeda47d9404?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8SGFyaWR3YXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1588750765220-50603c3c0c7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8SGFyaWR3YXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1591783178925-3b400090387d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8SGFyaWR3YXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60"],
-    "type":["Sightseeing"],
+    "type":["Sightseeing","Culture","Food"],
     "includes":[
         {"accomodation_details":"Classic Residency/ TBA/or similar"},
         {"transport_details":[
@@ -41,7 +41,7 @@
     "details":"Brief History: The statue was erected as a tribute to Sardar Vallabhbhai Patel, known as the Iron Man of India and the country's first independent home minister. He was in charge of bringing together the nation's 562 princely republics to become the Republic of India.",
     "season":["Winter","Summer","Spring"],
     "additional_image":["https://images.unsplash.com/photo-1623825777182-67502a5d8f29?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8c3RhdHVlJTIwb2YlMjB1bml0eXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1659964181274-e8b3099a99c7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8Mnx0a21ubWNLV3Z5NHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1659964144625-ee957bca7b92?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXx0a21ubWNLV3Z5NHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=800&q=60"],
-    "type":["Sightseeing"],
+    "type":["Sightseeing","Shopping"],
     "includes":[
         {"accomodation_details":"Tent City Narmada"},
         {"transport_details":[{"type":"plane"},
@@ -58,7 +58,7 @@
     "details":"Amritsar is a city in the Punjab region of northwest India, 28 kilometres from Pakistan's border. The holiest gurdwara (religious complex) in the Sikh religion is the gilded Golden Temple (Harmandir Sahib), which is located in the middle of its walled ancient town. It's encircled by the revered Amrit Sarovar tank (lake), where pilgrims wash, and is at the end of a causeway.",
     "season":["Winter"],
     "additional_image":["https://images.unsplash.com/photo-1618029934462-66cf78c31094?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8V2FnYWglMjBCb3JkZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1618029349137-668d2851888d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8V2FnYWglMjBCb3JkZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1623554942713-9799e02d6965?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8V2FnYWglMjBCb3JkZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60"],
-    "type":["Sightseeing"],
+    "type":["Sightseeing","Culture"],
     "includes":[
         {"accomodation_details":"Hotel Dara Royale"},
         {"transport_details":[{"type":"plane"},
@@ -75,7 +75,7 @@
     "details":"It is famous for its Mughal architecture and for being home to one of the Seven Wonders of the World, the Taj Mahal - a monument of incredible elegance and architectural perfection.",
     "season":["Autumn"],
     "additional_image":["https://images.unsplash.com/photo-1591018653367-9c01498b3320?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8YWdyYXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1612810436541-336b73fbcf9f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8YWdyYXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60","https://plus.unsplash.com/premium_photo-1661902184762-49c2c8ebb787?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YWdyYXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60"],
-    "type":["Sightseeing"],
+    "type":["Sightseeing","Temple","Culture"],
     "includes":[
         {"accomodation_details":"Clarks Inn Hotel"},
         {"transport_details":[{"type":"plane"},
@@ -92,7 +92,7 @@
     "details":"Brief History: The statue was erected as a tribute to Sardar Vallabhbhai Patel, known as the Iron Man of India and the country's first independent home minister. He was in charge of bringing together the nation's 562 princely republics to become the Republic of India.",
     "season":["Rainy","Autumn"],
     "additional_image":["https://images.unsplash.com/photo-1623825777182-67502a5d8f29?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8c3RhdHVlJTIwb2YlMjB1bml0eXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1659964181274-e8b3099a99c7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8Mnx0a21ubWNLV3Z5NHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1659964144625-ee957bca7b92?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXx0a21ubWNLV3Z5NHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=800&q=60"],
-    "type":["Sightseeing"],
+    "type":["Temple","Culture"],
     "includes":[
         {"accomodation_details":"Hotel Dara Royale"},
         {"transport_details":[{"type":"plane"},
@@ -109,7 +109,7 @@
     "details":"An integrated film studio complex called Ramoji Film City is situated in Hyderabad, India. It is the largest film studio complex in the world, covering 1,666 acres (674 ha), and the Guinness Book of World Records has recognised this fact. Ramoji Rao, a media magnate in Telugu, founded it in 1996.",
     "season":["Spring","Rainy","Autumn"],
     "additional_image":["https://images.unsplash.com/photo-1441911645956-df6e9bbc5496?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aHlkZXJhYmFkfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1470075446540-4391a96ec621?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aHlkZXJhYmFkfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1601619933635-023753974a65?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8aHlkZXJhYmFkfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60"],
-     "type":["Sightseeing"],
+    "type":["Sightseeing","Food"],
     "includes":[
         {"accomodation_details":"Clarks Inn Hotel"},
         {"transport_details":[{"type":"plane"},
@@ -126,7 +126,7 @@
     "details":"Varanasi is a city in the northern Indian state of Uttar Pradesh dating to the 11th century B.C. Regarded as the spiritual capital of India, the city draws Hindu pilgrims who bathe in the Ganges River’s sacred waters and perform funeral rites. Along the city's winding streets are some 2,000 temples, including Kashi Vishwanath, the “Golden Temple,” dedicated to the Hindu god Shiva.",
     "season":["Spring"],
     "additional_image":["https://images.unsplash.com/photo-1627894483216-2138af692e32?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8VmFyYW5hc2l8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1565354785692-9e7523e5a87b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8VmFyYW5hc2l8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1621241032663-02325642d22c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8VmFyYW5hc2l8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60"],
-    "type":["Sightseeing"],
+    "type":["Shopping","Culture","History"],
     "includes":[
         {"accomodation_details":"Amaya"},
         {"transport_details":[{"type":"plane"},
@@ -143,7 +143,7 @@
     "details":"Attari, which is sometimes written Atari, is a hamlet in the Amritsar district of the Indian province of Punjab, 3 kilometres from Wagah, where the Indo-Pakistani border is located. It is the final Indian station on the train line that connects Lahore, Pakistan with Delhi, India's capital, and is located 25 kilometres to the west of Amritsar, the Sikh holy city.",
     "season":["Spring","Autumn"],
     "additional_image":["https://images.unsplash.com/photo-1618029349137-668d2851888d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8V2FnYWglMjBCb3JkZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1598431416007-869a2a727f8b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8V2FnYWglMjBCb3JkZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1618029934462-66cf78c31094?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8V2FnYWglMjBCb3JkZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60"],
-    "type":["Sightseeing"],
+    "type":["Sightseeing","History","Temple"],
     "includes":[
         {"accomodation_details":"Hotel Dara Royale"},
         {"transport_details":[{"type":"plane"},
@@ -160,7 +160,7 @@
     "details":"West-central India contains the city of Indore. It is well-known for the Holkar dynasty-era Rajwada Palace and Lal Baag Palace, both of which are seven stories high and originate from Indore. At Chhatri Baag, there is a collection of graves and cenotaphs dedicated to the Holkar kings. Street cuisine is available at the Sarafa Bazar night market. The Indo-Gothic Gandhi Hall and clock tower are to the east. Interior mosaic mirrors can be found at the Jain temple Kanch Mandir.",
     "season":["Spring","Rainy"],
     "additional_image":["https://images.unsplash.com/photo-1609533944476-2cb471a3d6fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fEluZG9yZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1594538183649-3747cf4cf40f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8SW5kb3JlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1584332274506-521247193d46?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8SW5kb3JlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60"],
-    "type":["Sightseeing"],
+    "type":["Food","History","Culture"],
     "includes":[
         {"accomodation_details":"Amaya"},
         {"transport_details":[{"type":"plane"},
@@ -177,7 +177,7 @@
     "details":"In Madhya Pradesh, the tranquil town of Ujjain is best known as the location of the Mahakaleshwar Temple, which is devoted to Lord Shiva. Many pilgrims and tourists stop at the Mahakaleshwar temple each year.",
     "season":["Winter","Spring"],
     "additional_image":["https://images.unsplash.com/photo-1658730487395-dcc99f5d997c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8VWpqYWlufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1554554497-0095c34db3ec?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8dGVtcGxlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1444194563460-454833ba6005?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8dGVtcGxlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60"],
-    "type":["Sightseeing"],
+    "type":["Culture","Food","History"],
     "includes":[
         {"accomodation_details":"Amaya"},
         {"transport_details":[{"type":"plane"},
@@ -194,7 +194,7 @@
     "details":"In the foothills of the Himalayas, Shimla serves as the state capital of Himachal Pradesh in northern India. It still serves as the end of the 1903-completed, narrow-gauge Kalka-Shimla Railway. It was once the summer capital of British India. The Lakkar Bazaar, a bazaar that specialises in wooden toys and crafts, as well as the handicraft shops that line the pedestrian-only The Mall are other notable attractions.",
     "season":["Winter","Summer","Spring"],
     "additional_image":["https://images.unsplash.com/photo-1605649487212-47bdab064df7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8TWFuYWxpfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1597167231350-d057a45dc868?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8TWFuYWxpfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8TWFuYWxpfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60"],
-    "type":["Sightseeing"],
+    "type":["Sightseeing","Shopping","Trekking"],
     "includes":[
         {"accomodation_details":"Hotel Asia The Dawn"},
         {"transport_details":[{"type":"plane"},
@@ -211,7 +211,7 @@
     "details":"Manali is a high-altitude Himalayan vacation city located in the Himachal Pradesh state of northern India. It is well known as a honeymoon and trekking destination. It is a starting point for trekking in the Parvati Valley and skiing in the Solang Valley and is located on the Beas River. Additionally, it serves as a starting point for mountaineering, rafting, and paragliding in the Pir Panjal mountains, which contain the 4,000-meter-high Rohtang Pass.",
     "season":["Winter","Summer"],
     "additional_image":["https://images.unsplash.com/photo-1594102552386-793e5a27ad10?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8TWFuYWxpfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1593181629936-11c609b8db9b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8TWFuYWxpfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1590667046100-2e0fd9a5b31b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8TWFuYWxpfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60"],
-    "type":["Sightseeing"],
+    "type":["Sightseeing","Food","Shopping"],
     "includes":[
         {"accomodation_details":"S C Residency/ Hotel Swan/ Silky Resort"},
         {"transport_details":[{"type":"plane"},
@@ -228,7 +228,7 @@
     "details":"India's tropical Malabar Coast state of Kerala features over 600km of Arabian Sea coastline. It is renowned for its backwaters, a system of canals, and beaches surrounded with palm trees. The Western Ghats are mountains in the interior that are home to wildlife as well as plantations for tea, coffee, and spices. Elephants, langur monkeys, and tigers are found in national parks like Eravikulam and Periyar, as well as Wayanad and other sanctuaries.",
     "season":["Winter"],
     "additional_image":["https://images.unsplash.com/photo-1530280759083-88ad120b0f7e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fEtlcmFsYXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1624554305378-0f440dd3a8c1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fEtlcmFsYXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1587538301417-41efdc14eaef?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fEtlcmFsYXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60"],
-    "type":["Sightseeing"],
+    "type":["Beach","Food","Temple"],
     "includes":[
         {"accomodation_details":"Hotel Swan"},
         {"transport_details":[{"type":"plane"},
@@ -245,7 +245,7 @@
     "details":"One of the biggest salt deserts in the world is found in Gujarat, namely near the Rann of Kutch. This amazing location, with its fantastical sceneries, is a photographer's paradise and has recently become a well-liked unconventional tourist destination.",
     "season":["Rainy","Autumn"],
     "additional_image":["https://images.unsplash.com/photo-1620103143245-9efb3e4a7553?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8R3VqYXJhdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1570605505301-0f713202ca7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8R3VqYXJhdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1613450960093-8a8684076a22?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8R3VqYXJhdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60"],
-    "type":["Sightseeing"],
+    "type":["Food","Shopping"],
     "includes":[
         {"accomodation_details":"Regenta Resort Bhuj/ Hotel Click"},
         {"transport_details":[{"type":"plane"},
@@ -262,7 +262,7 @@
     "details":"A interesting hill resort is Mussoorie, often known as the Queen of the Hills and renowned for its natural beauty. It has dazzling views of the Doon Valley and a magnificent vista of the vast Himalayan mountain peaks towards the northwest.",
     "season":["Autumn"],
     "additional_image":["https://images.unsplash.com/photo-1620103143245-9efb3e4a7553?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8R3VqYXJhdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1570605505301-0f713202ca7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8R3VqYXJhdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1613450960093-8a8684076a22?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8R3VqYXJhdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60"],
-    "type":["Sightseeing"],
+    "type":["Sightseeing","Temple","Culture"],
     "includes":[
         {"accomodation_details":"Country Inn Bhimtal"},
         {"transport_details":[{"type":"plane"},
@@ -279,7 +279,7 @@
     "details":"Manali is a high-altitude Himalayan vacation city located in the Himachal Pradesh state of northern India. It is well known as a honeymoon and trekking destination. It is a starting point for trekking in the Parvati Valley and skiing in the Solang Valley and is located on the Beas River. Additionally, it serves as a starting point for mountaineering, rafting, and paragliding in the Pir Panjal mountains, which contain the 4,000-meter-high Rohtang Pass.",
     "season":["Winter","Spring","Rainy","Autumn"],
     "additional_image":["https://images.unsplash.com/photo-1597074866923-dc0589150358?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8U2hpbWxhfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1556438549-168b3e11c0a1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8U2hpbWxhfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1581235463650-c5f2aa793268?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fFNoaW1sYXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60"],
-    "type":["Sightseeing"],
+    "type":["Sightseeing","Trekking","Food"],
     "includes":[
         {"accomodation_details":"Hotel Click"},
         {"transport_details":[{"type":"plane"},
@@ -296,7 +296,7 @@
     "details":"Visakhapatnam is a port city and industrial center in the Indian state of Andhra Pradesh, on the Bay of Bengal. It's known for its many beaches, including Ramakrishna Beach, home to a preserved submarine at the Kursura Submarine Museum. Nearby are the elaborate Kali Temple and the Visakha Museum, an old Dutch bungalow housing local maritime and historical exhibits.",
     "season":["Winter","Summer","Rainy","Autumn"],
     "additional_image":["https://images.unsplash.com/photo-1511200016789-e7b694d91f81?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Qm9ycmElMjBDYXZlc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1557796129-52fd13cd920d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fEJvcnJhJTIwQ2F2ZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1517894998153-2f491dd5ddd5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Qm9ycmElMjBDYXZlc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60"],
-    "type":["Sightseeing"],
+    "type":["Food","Beach","Diving"],
     "includes":[
         {"accomodation_details":"Hotel Diamond"},
         {"transport_details":[{"type":"plane"},
@@ -313,7 +313,7 @@
     "details":"In the state of Odisha, Bhubaneswar forms the golden triangle with Konark and Puri. In addition, it is also known for its year-round festivals, cuisine, and appliqué artwork. Most people know this city for hosting the Ratha Jatra Car Festival, which draws large crowds of followers from all across Odisha.",
     "season":["Winter","Summer","Spring","Autumn"],
     "additional_image":["https://images.unsplash.com/photo-1598323646582-18d2101c9aad?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Qmh1YmFuZXN3YXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1617217139357-b77ae58ad4b2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Qmh1YmFuZXN3YXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1597505686823-233a95175f40?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Qmh1YmFuZXN3YXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60"],
-    "type":["Sightseeing"],
+    "type":["Temple","Culture"],
     "includes":[
         {"accomodation_details":"Rooftop Hill"},
         {"transport_details":[{"type":"plane"},
@@ -330,7 +330,7 @@
     "details":"Kochi, often spelled Cochin, is a city in the Kerala state on the southwest coast of India. Since a flood dug out its harbour in 1341 and allowed Arab, Chinese, and European traders to enter, it has served as a port. Fort Kochi, a hamlet with tiled colonial villas and several houses of worship, is one location that reflects those influences. Traditional to Kochi, cantilevered Chinese fishing nets have been in use for many years.",
     "season":["Winter","Summer","Spring","Rainy"],
     "additional_image":["https://images.unsplash.com/photo-1530280759083-88ad120b0f7e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fEtlcmFsYXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1624554305378-0f440dd3a8c1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fEtlcmFsYXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1587538301417-41efdc14eaef?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fEtlcmFsYXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60"],
-    "type":["Sightseeing"],
+    "type":["Culture","Beach"],
     "includes":[
         {"accomodation_details":"Eastend Munnar"},
         {"transport_details":[{"type":"plane"},
@@ -347,7 +347,7 @@
     "details":"Kochi, often spelled Cochin, is a city in the Kerala state on the southwest coast of India. Since a flood dug out its harbour in 1341 and allowed Arab, Chinese, and European traders to enter, it has served as a port. Fort Kochi, a hamlet with tiled colonial villas and several houses of worship, is one location that reflects those influences. Traditional to Kochi, cantilevered Chinese fishing nets have been in use for many years.",
     "season":["Summer","Spring","Rainy","Autumn"],
     "additional_image":["https://images.unsplash.com/photo-1591353527304-24290c2a5a61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8S3VtYXJha29tfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1605531321045-59731b348442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8TXVubmFyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1654530050931-3b02b28570c1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8S3VtYXJha29tfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60"],
-    "type":["Sightseeing"],
+    "type":["Sightseeing","Diving","Trekking"],
     "includes":[
         {"accomodation_details":"Blue Water"},
         {"transport_details":[{"type":"plane"},
@@ -364,7 +364,7 @@
     "details":"Gulmarg, Sonamarg, Kupwara, Kargil, Pulwama, Pahalgam, Nishat Garden, Shalimar Garden Chashmashahi, Jama Masjid, Yusmarg, and Aru Valley are just a few places in Kashmir that come to mind. These sites to visit in Kashmir are renowned for their exceptional beauty, from the lovely valleys to the alpine meadows that reach to the horizon.",
     "season":["Winter"],
     "additional_image":["https://images.unsplash.com/photo-1566837497312-7be7830ae9b1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8a2FzaG1pcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1566323124805-757e5c41d37c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGthc2htaXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1561287437-c69a30664793?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjF8fGthc2htaXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60"],
-    "type":["Sightseeing"],
+    "type":["Shopping","Culture","Trekking"],
     "includes":[
         {"accomodation_details":"Kashmira"},
         {"transport_details":[{"type":"plane"},
@@ -381,7 +381,7 @@
     "details":"Famous for having the highest number of tigers among Indian national parks. Covers thousands of kilometers of stunning landscape. Allows overnight stays in certain areas.",
     "season":["Winter","Rainy","Autumn"],
     "additional_image":["https://images.unsplash.com/photo-1601463501677-377b99c28d09?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fE5haW5pdGFsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1629946266592-8a82b745ffb2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fE5haW5pdGFsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1634455211118-2b06099fb328?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjJ8fE5haW5pdGFsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60"],
-    "type":["Sightseeing"],
+    "type":["Shopping","Food"],
     "includes":[
         {"accomodation_details":"Country Inn Bhimtal"},
         {"transport_details":[{"type":"plane"},
@@ -398,7 +398,7 @@
     "details":"Shimla's Ridge, Kufri, Green Valley, Jakhoo Hill, Chail, Kiala Forest, Mall Road, Christ Church, Kali Bari Temple, Himalayan Bird Park, Viceregal Lodge, Kuthar Fort, Summer Hill, Ride on Toy Train, Chadwick Waterfall, and several more spectacular attractions are just a few of the city's top sights.",
     "season":["Winter","Summer","Autumn"],
     "additional_image":["https://images.unsplash.com/photo-1621340981970-54a5d9cc459d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8TWFuaWthcmFufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1652379379347-5ab81f8d03fa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8TWFuaWthcmFufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1644996463627-9e4680e832f4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8TWFuaWthcmFufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60"],
-    "type":["Sightseeing"],
+    "type":["Sightseeing","Food","Shopping"],
     "includes":[
         {"accomodation_details":"Hotel Asia The Dawn/ Hotel De Park/ Andaz Resort"},
         {"transport_details":[{"type":"plane"},
@@ -415,7 +415,7 @@
     "details":"It is a rural community famed for its chilly weather and snow-capped mountains, providing relief to those fleeing the oppressive heat of the plains. Only in the early 20th century did Manali's tourist business begin to take off, mostly as a result of its abundant natural resources and healthy environment.",
     "season":["Winter","Summer","Spring"],
     "additional_image":["https://images.unsplash.com/photo-1497267049703-01d7eb538c99?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWFuYWxpJTJDJTIwaGltYWNoYWwlMjBwcmFkZXNofGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1615445969492-6894df4a5613?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bWFuYWxpJTJDJTIwaGltYWNoYWwlMjBwcmFkZXNofGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1654368939379-9532a6b536e6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fG1hbmFsaSUyQyUyMGhpbWFjaGFsJTIwcHJhZGVzaHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60"],
-    "type":["Sightseeing"],
+    "type":["Shopping","Trekking"],
     "includes":[
         {"accomodation_details":"Kanishka/ Whistling pines/ moniker resort"},
         {"transport_details":[{"type":"plane"},
@@ -432,7 +432,7 @@
     "details":"In the middle of the Thar Desert, in the western Indian state of Rajasthan, sits the old commerce hub and princely kingdom of Jaisalmer. It is recognised by its golden sandstone architecture and is referred to as the GoldenCity Jaisalmer Fort, a vast hilltop fortification supported by 99 bastions, commands the skyline. The majestic Maharaja's Palace and elaborately carved Jain temples are hidden behind its imposing walls.",
     "season":["Winter","Summer","Autumn"],
     "additional_image":["https://images.unsplash.com/photo-1569096610945-1a094be04c74?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Sm9kaHB1cnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60","https://plus.unsplash.com/premium_photo-1661962305764-375ef76a3fb5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8Sm9kaHB1cnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1504194947363-2f14d9e0e445?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8Sm9kaHB1cnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60"],
-    "type":["Sightseeing"],
+    "type":["Sightseeing","Shopping"],
     "includes":[
         {"accomodation_details":"Desert Resorts/ Desert And Dunes"},
         {"transport_details":[{"type":"plane"},
@@ -449,7 +449,7 @@
     "details":"Rajasthan is renowned for its ancient hill forts and palaces, and is regarded as the ideal location for palace-related tourism. The largest royal palace in Rajasthan is Umaid Bhawan Palace. It's also among the biggest private homes in the whole planet.",
     "season":["Winter","Summer","Rainy","Autumn"],
     "additional_image":["https://images.unsplash.com/photo-1587295656906-b06dca8f2340?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8UmFqYXN0aGFufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1588084603723-41322210d44d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fFJhamFzdGhhbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1636012873375-f77a63af3f9a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fFJhamFzdGhhbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60"],
-    "type":["Sightseeing"],
+    "type":["History","Food","Culture"],
     "includes":[
         {"accomodation_details":"Rudransh Inn/ Treebo Trend The Marwar Hotel"},
         {"transport_details":[{"type":"plane"},
@@ -466,6 +466,7 @@
     "details":"Jammu & Kashmir, often known as the 'Paradise on Earth' is renowned across the globe for its breathtaking scenery, snow-capped mountains, plethora of animals, gorgeous monuments, warm-hearted people, and regional handicrafts.",
     "season":["Winter","Summer","Autumn"],
     "additional_image":["https://images.unsplash.com/photo-1561004975-fae4c046859e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8amFtbXV8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1601047095317-25a0ad9933f1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8amFtbXV8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60","https://plus.unsplash.com/premium_photo-1661949303004-bab6b7a82912?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGphbW11fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60"],
+    "type":["Shopping","Food","Trekking"],
     "includes":[
         {"accomodation_details":"Aziz Palace Houseboat/ California Houseboat/ Butterfly Houseboat"},
         {"transport_details":[{"type":"plane"},
@@ -481,7 +482,7 @@
     "details":"Shimla's Ridge, Kufri, Green Valley, Jakhoo Hill, Chail, Kiala Forest, Mall Road, Christ Church, Kali Bari Temple, Himalayan Bird Park, Viceregal Lodge, Kuthar Fort, Summer Hill, Ride on Toy Train, Chadwick Waterfall, and several more spectacular attractions are just a few of the city's top sights.",
     "season":["Winter","Spring","Rainy","Autumn"],
     "additional_image":["https://images.unsplash.com/photo-1577109716041-02c9988f23ca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8bHVja25vd3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1550948256-6c29371f59ec?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGx1Y2tub3d8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1579540324422-dc7bd645434c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGx1Y2tub3d8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60"],
-    "type":["Sightseeing"],
+    "type":["Culture","Temple","Food"],
     "includes":[
         {"accomodation_details":"Night Dawn"},
         {"transport_details":[{"type":"plane"},
@@ -498,7 +499,7 @@
     "details":"The state of Uttar Pradesh's capital is located in the sizable city of Lucknow in northern India. Rumi Darwaza, a Mughal gateway, is located toward the middle of it. The Bara Imambara shrine nearby features a huge arched hall. Bhool Bhulaiya, which is located upstairs, is a labyrinth of congested tunnels with balconies that overlook the city. The imposing Victorian Husainabad Clock Tower nearby was constructed in 1881 as a victory column.",
     "season":["Winter","Spring","Rainy","Autumn"],
     "additional_image":["https://images.unsplash.com/photo-1577109716041-02c9988f23ca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8bHVja25vd3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1550948256-6c29371f59ec?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGx1Y2tub3d8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60","https://images.unsplash.com/photo-1579540324422-dc7bd645434c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGx1Y2tub3d8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60"],
-    "type":["Sightseeing"],
+    "type":["Shopping","History"],
     "includes":[
         {"accomodation_details":"Night Dawn"},
         {"transport_details":[{"type":"plane"},
