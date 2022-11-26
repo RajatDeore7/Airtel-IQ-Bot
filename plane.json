@@ -7,13 +7,14 @@
         "to":"Mysuru",
         "ratings":"4.5",
         "prewiew":"good",
+        "currency":"INR",
         "price":"10500",
         "image":"img1.png",
         "reporting time":"1am",
         "departure time":"2am",
         "journey time":"1hr",
-        " Pune Airport Name":"Pune International Airport",
-        " Mysuru Airport Name":"Mysore Airport"
+        "Airport Name 1":"Pune International Airport",
+        "Airport Name 2":"Mysore Airport"
     },
     {
         "flightename":"Air India",
@@ -23,13 +24,14 @@
         "to":"Delhi",
         "ratings":"4",
         "prewiew":"nice",
+        "currency":"INR",
         "price":"5000",
         "image":"img2.png",
         "reporting time":"2pm",
         "departure time":"3:30pm",
         "journey time":"30min",
-        " Mumbai Airport Name":"Chhatrapatti Shivaji Maharaj International Airport ",
-        " Delhi Airport Name":"Indira Gandhi Airport"
+        "Airport Name 1":"Chhatrapatti Shivaji Maharaj International Airport ",
+        "Airport Name 2":"Indira Gandhi Airport"
     },
     {
         "flightename":"Go First",
@@ -39,13 +41,14 @@
         "to":"Ahmedabad",
         "ratings":"3.5",
         "prewiew":"nice",
+        "currency":"INR",
         "price":"9800",
         "image":"img3.png",
         "reporting time":"4pm",
         "departure time":"5pm",
         "journey time":"30min",
-        "Airport Name":"Dabolim Airport",
-        " Ahmedabad Airport Name":"Sardar Vallabhhai Patel International Airport"
+        "Airport Name 1":"Dabolim Airport",
+        "Airport Name 2":"Sardar Vallabhhai Patel International Airport"
     },
     {
         "flightename":"Vistara",
@@ -55,13 +58,14 @@
         "to":"Guwhati",
         "ratings":"3.5",
         "prewiew":"nice",
+        "currency":"INR",
         "price":"10200",
         "image":"img4.png",
         "reporting time":"4am",
         "departure time":"6am",
         "journey time":"45min",
-        " Thiruvananthpuram Airport Name":"Trivandrum International Airport",
-        " Guwhati Airport Name":"Guwhati International Airport"
+        "Airport Name 1":"Trivandrum International Airport",
+        "Airport Name 2":"Guwhati International Airport"
     },
     {
         "flightename":"Air India Express",
@@ -71,13 +75,14 @@
         "to":"Lucknow ",
         "ratings":"4.5",
         "prewiew":"good",
+        "currency":"INR",
         "price":"8000",
         "image":"img5.png",
         "reporting time":"1pm",
         "departure time":"2:30pm",
         "journey time":"30min",
-        " Karanataka Airport Name":"Bajpe International Airport",
-        " Lucknow Airport Name":"Amausi Airport"
+        "Airport Name 1":"Bajpe International Airport",
+        "Airport Name 2":"Amausi Airport"
     },
     {
         "flightename":"AirAsia air",
@@ -87,13 +92,14 @@
         "to":"Jaipur",
         "ratings":"4",
         "prewiew":"nice",
+        "currency":"INR",
         "price":"2700",
         "image":"img6.png",
         "reporting time":"5am",
         "departure time":"6am",
         "journey time":"25min",
-        "Patana Airport Name":"Jaiprakash Airport",
-        "Rajasthan Airport Name":"Jaipur International Airport"
+        "Airport Name 1":"Jaiprakash Airport",
+        "Airport Name 2":"Jaipur International Airport"
     },
     {
         "flightename":"Akasa Air",
@@ -103,13 +109,14 @@
         "to":"Mohali",
         "ratings":"4",
         "prewiew":"nice",
+        "currency":"INR",
         "price":"6500",
         "image":"img7.png",
         "reporting time":"8pm",
         "departure time":"9:30pm",
         "journey time":"35min",
-        " Ranchi Airport Name":"Ranchi Airport",
-        " Chandigarh Airport Name":"Shaheed Bhagat Singh Airport"
+        "Airport Name 1":"Ranchi Airport",
+        "Airport Name 2":"Shaheed Bhagat Singh Airport"
     },
     {
         "flightename":"IndiGo",
@@ -119,13 +126,14 @@
         "to":"Pune",
         "ratings":"4.5",
         "prewiew":"good",
+        "currency":"INR",
         "price":"1500",
         "image":"img8.png",
         "reporting time":"10am",
         "departure time":"12am",
         "journey time":"14min",
-        " Nashik Airport Name":"Gandhinagar Airport",
-        " Pune Airport Name":"Pune International Airport"
+        "Airport Name 1":"Gandhinagar Airport",
+        "Airport Name 2":"Pune International Airport"
     },
     {
         "flightename":"Spicejet",
@@ -135,13 +143,14 @@
         "to":"Bengaluru",
         "ratings":"4",
         "prewiew":"good",
+        "currency":"INR",
         "price":"15000",
         "image":"img9.png",
         "reporting time":"4:30am",
         "departure time":"5am",
         "journey time":"1hr",
-        " Pune Airport Name":"Pune International Airport",
-        " Bengaluru Airport Name":"Kempegowda International Airport"
+        "Airport Name 1":"Pune International Airport",
+        "Airport Name 2":"Kempegowda International Airport"
     },
     {
         "flightename":"Air India Express",
@@ -151,12 +160,13 @@
         "to":"Mumbai",
         "ratings":"4.5",
         "prewiew":"good",
+        "currency":"INR",
         "price":"8000",
         "image":"img10.png",
         "reporting time":"3pm",
         "departure time":"4:30m",
         "journey time":"30min",
-        " Delhi Airport Name":"Indira Gandhi Airport",
-        " Mumbai Airport Name":"Chhatrapatti Shivaji Maharaj International Airport "
+        "Airport Name 1":"Indira Gandhi Airport",
+        "Airport Name 2":"Chhatrapatti Shivaji Maharaj International Airport "
     }
 ]
