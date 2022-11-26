@@ -1,0 +1,48 @@
+.body-main {
+    background: #ffffff;
+    border-bottom: 15px solid #1E1F23;
+    border-top: 15px solid #1E1F23;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 20px 30px !important;
+    position: relative;
+    box-shadow: 0 1px 21px #808080;
+    font-size: 10px;
+
+
+
+}
+
+.container {
+    width: 60%;
+}
+
+.main thead {
+    background: #1E1F23;
+    color: #fff;
+}
+
+.img {
+    height: 100px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 30px;
+}
+
+p {
+    padding: 0;
+    margin: 0;
+    font-size: 15px;
+}
+
+
+table, td, th {
+    border: 1px solid;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
