@@ -38,7 +38,7 @@
                                     <p>Name :</p>
                                 </td>
                                 <td>
-                                    <p>Aditya Sudhir Bile</p>
+                                    <p>{{d.name.o}}</p>
                                 </td>
                             </tr>
                             <tr>
@@ -46,7 +46,7 @@
                                     <p>Mobile No. :</p>
                                 </td>
                                 <td>
-                                    <p>917756903361</p>
+                                    <p>{{d.mobile.0}}</p>
                                 </td>
                             </tr>
                             <tr>
@@ -54,7 +54,7 @@
                                     <p>To :</p>
                                 </td>
                                 <td>
-                                    <p>Jhumritalaiya</p>
+                                    <p>{{d.to.0}}</p>
                                 </td>
                             </tr>
                             <tr>
@@ -62,7 +62,7 @@
                                     <p>From :</p>
                                 </td>
                                 <td>
-                                    <p>Akurdi</p>
+                                    <p>{{d.from.0}}</p>
                                 </td>
                             </tr>
                             <tr>
@@ -70,7 +70,7 @@
                                     <p>Date of Departure :</p>
                                 </td>
                                 <td>
-                                    <p>26/11/2022</p>
+                                    <p>{{d.date_departure.0}}</p>
                                 </td>
                             </tr>
                             <tr>
@@ -78,7 +78,7 @@
                                     <p>Accomodation Details :</p>
                                 </td>
                                 <td>
-                                    <p>Hotel Blue Diamond</p>
+                                    <p>{{d.accomodation_details.0}}</p>
                                 </td>
                             </tr>
                             <tr>
@@ -86,10 +86,10 @@
                                     <p>Travel Details :</p>
                                 </td>
                                 <td>
-                                    <p>type:plane</p>
-                                    <p>from:plane</p>
-                                    <p>to:plane</p>
-                                    <p>time:8:30 AM</p>
+                                    <p>type:{{d.type.0}}</p>
+                                    <p>from:{{d.from_type.0}}</p>
+                                    <p>to:{{d.to_type.0}}</p>
+                                    <p>time:{{d.time_type.0}}</p>
                                 </td>
                             </tr>
                             <tr>
@@ -97,7 +97,7 @@
                                     <p>No. Of Members :</p>
                                 </td>
                                 <td>
-                                    <p>5</p>
+                                    <p>{{d.no_member.0}}</p>
                                 </td>
                             </tr>
                             <tr>
@@ -105,7 +105,7 @@
                                     <p>Currency :</p>
                                 </td>
                                 <td>
-                                    <p>INR</p>
+                                    <p>{{d.currency.0}}</p>
                                 </td>
                             </tr>
                             <tr>
@@ -113,7 +113,7 @@
                                     <p>Price Per Person :</p>
                                 </td>
                                 <td>
-                                    <p>30000</p>
+                                    <p>{{d.price.0}}</p>
                                 </td>
                             </tr>
                             <tr>
@@ -121,7 +121,7 @@
                                     <p>Total Price :</p>
                                 </td>
                                 <td>
-                                    <p>150000</p>
+                                    <p>{{d.total_price.0}}</p>
                                 </td>
                             </tr>
 
@@ -134,7 +134,7 @@
                     <br>
                     <div>
                         <div class="col-md-12">
-                            <p><b>Date :</b> xx Month xxxx</p>
+                            <p><b>Date :</b>{{d.created_date.0}}</p>
                         </div>
                     </div>
                 </div>
